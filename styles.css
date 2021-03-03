@@ -1,3 +1,13 @@
 body {
-  background: orange;
+  background: rgb(4, 38, 61);
+  color: white;
+  
+}
+#display {
+  display: inline;
+}
+ol {
+  display: inline;
+  padding: 2rem;
+  
 }
